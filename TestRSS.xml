@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="3.0">
   <channel>
     <title>Sample Feed</title>
     <description>RSS</description>
     <item>
       <title>RSS Solutions</title>
       <description>Test Rss</description>
-      <content>
-        test text.
-      </content>
+      <content>test text.</content>
     </item>
   </channel>
 </rss>
