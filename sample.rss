@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>FeedForAll Sample Feed</title>
+    <description>RSS is a fascinating technology. The uses for RSS are expanding daily. Take a closer look at how various industries are using the benefits of RSS in their businesses.</description>
+    <item>
+      <title>RSS Solutions for Law Enforcement</title>
+      <description>Test Rss</description>
+      <pubDate>Tue, 19 Oct 2004 11:08:56 -0400</pubDate>
+      <content>
+        test text.
+      </content>
+    </item>
+  </channel>
+</rss>
