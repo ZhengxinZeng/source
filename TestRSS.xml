@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    version="2.0">
+
+  <channel>
+    <title>Lifestyle</title>
+    <description>channel description</description>
+    <language>en-us</language>
+
+    <item>
+      <guid isPermaLink="false">477648</guid>
+      <title><![CDATA[High-definition video encoding and streaming]]></title>
+      <pubDate>2017-10-04T08:00:00-05:00</pubDate>
+      <description>
+       <![CDATA[
+        Article description should be plain text, no HTML is allowed
+        ]]>
+      </description>
+      <content>
+        <![CDATA[             
+           Media Services enables you to encode your media files into formats that can be played on a wide variety of browsers and devices.  
+            For example, you might want to stream your content in Apple's HLS or MPEG DASH formats. Before streaming, you should encode your high-quality 
+            digital media file.
+        ]]>
+      </content>
+    </item>
+  </channel>
+</rss>
